@@ -10,13 +10,13 @@ ___
 
 <br></br>
 
-## My Tech Blog
+## 👨🏻‍💻 My Tech Blog
 ___
 <a href="https://suzuworld.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-   badge&logo=Tistory&logoColor=black"/></a> &nbsp;
 
 <br></br>
 
-## SNS & Email
+## 📬 SNS & Email
 ___
 <a href="https://www.linkedin.com/in/wonyonghwang/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-01579b?style=for-the-   badge&logo=Linkedin&logoColor=#0A66C2"/></a> &nbsp;
 <a href="https://www.instagram.com/wonyongpic" target="_blank"><img src="https://img.shields.io/badge/Instagram-9C27B0?style=for-the-   badge&logo=Instagram&logoColor=white"/></a> &nbsp;
@@ -24,7 +24,7 @@ ___
 
 <br></br>
 
-## Github Stats & Baekjoon Tier
+## 📌 Github Stats & Baekjoon Tier
 ___
 ![Wonyongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongg&show_icons=true&theme=slateorange)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwubj)](https://solved.ac/hwubj/)
