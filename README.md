@@ -1,5 +1,30 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&animation=twinkling&fontSize=90&desc=WonYong's%20Github%20Profile&descAlign=60&descAlignY=63)
 
+
+## 📝 RESUME
+___
+
+<a href="https://wonyongg.github.io/" target="_blank"><img src="https://img.shields.io/badge/KOREAN-42A5F5?style=for-the-   badge&logo=Github&logoColor=181717"/></a> &nbsp;
+<a href="https://wonyongg.github.io/eng" target="_blank"><img src="https://img.shields.io/badge/ENGLISH-FFB74D?style=for-the-   badge&logo=Github&logoColor=212121"/></a> 
+
+<br></br>
+
+## My Tech Blog
+___
+<a href="https://suzuworld.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=for-the-   badge&logo=Tistory&logoColor=black"/></a> &nbsp;
+
+<br></br>
+
+## SNS
+___
+<a href="https://www.linkedin.com/in/wonyonghwang/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-01579b?style=for-the-   badge&logo=Linkedin&logoColor=#0A66C2"/></a> &nbsp;
+<a href="www.instagram.com/_wonyong" target="_blank"><img src="https://img.shields.io/badge/Instagram-C51161?style=for-the-   badge&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+<br></br>
+
+## Github Stats
+___
+![Wonyongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongg&show_icons=true&theme=slateorange)
 <!--
 **wonyongg/wonyongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
