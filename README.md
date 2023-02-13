@@ -6,7 +6,6 @@ ___
 
 <a href="https://wonyongg.github.io/" target="_blank"><img src="https://img.shields.io/badge/KOREAN-42A5F5?style=for-the-   badge&logo=Github&logoColor=181717"/></a>  &nbsp;
 <a href="https://wonyongg.github.io/jpn" target="_blank"><img src="https://img.shields.io/badge/JAPANESE-D32F2F?style=for-the-   badge&logo=Github&logoColor=212121"/></a> &nbsp;
-<a href="https://wonyongg.github.io/eng" target="_blank"><img src="https://img.shields.io/badge/ENGLISH-FFB74D?style=for-the-   badge&logo=Github&logoColor=212121"/></a>(in progress)  
 
 <br></br>
 
