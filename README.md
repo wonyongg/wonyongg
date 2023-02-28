@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=243&section=header&text=Welcome!&animation=twinkling&fontSize=90&desc=WonYong's%20Github%20Profile&descAlign=60&descAlignY=65)
 
-
+<!--
 ## 📝 RESUME
 ___
 
@@ -8,6 +8,7 @@ ___
 <a href="https://wonyongg.github.io/jpn" target="_blank"><img src="https://img.shields.io/badge/JAPANESE-D32F2F?style=for-the-   badge&logo=Github&logoColor=212121"/></a> &nbsp;
 
 <br></br>
+-->
 
 ## 👨🏻‍💻 My Tech Blog
 ___
