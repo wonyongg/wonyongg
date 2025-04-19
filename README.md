@@ -8,7 +8,7 @@ ___
 <a href="https://wonyongg.github.io/jpn" target="_blank"><img src="https://img.shields.io/badge/JAPANESE-D32F2F?style=for-the-   badge&logo=Github&logoColor=212121"/></a> &nbsp;
 
 <br></br>
--->
+
 
 ## 👨🏻‍💻 My Tech Blog
 ___
@@ -22,6 +22,7 @@ ___
 
 <br></br>
 
+-->
 ## 📌 Github Stats & Baekjoon Tier
 ___
 ![Wonyongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongg&show_icons=true&theme=slateorange)
