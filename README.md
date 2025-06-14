@@ -35,8 +35,8 @@ ___
 ___
 ![Wonyongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongg&show_icons=true&theme=slateorange)
 <br></br>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwubj)](https://solved.ac/hwubj/)
-<!--
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwubj)](https://solved.ac/hwubj/)
+
 **wonyongg/wonyongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
