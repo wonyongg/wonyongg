@@ -28,6 +28,7 @@ ___
 
 - [Improve readability of CloudFoundryVcapEnvironmentPostProcessor by removing constants](https://github.com/spring-projects/spring-boot/pull/45855)
 - [Fix typo in variable name](https://github.com/spring-projects/spring-boot/pull/45894)
+- [Extract constant and unify messages in Log4JCoreLoggerContextCondition](https://github.com/spring-projects/spring-boot/pull/45967)
 
 <br></br>
 
