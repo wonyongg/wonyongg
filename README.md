@@ -30,6 +30,10 @@ ___
 - [Fix typo in variable name](https://github.com/spring-projects/spring-boot/pull/45894)
 - [Extract constant and unify messages in Log4JCoreLoggerContextCondition](https://github.com/spring-projects/spring-boot/pull/45967)
 
+### <img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+- [Document intention of toString() in HandlerMethod](https://github.com/spring-projects/spring-framework/pull/35055)
+
 <br></br>
 
 ## 📌 Github Stats & Baekjoon Tier
