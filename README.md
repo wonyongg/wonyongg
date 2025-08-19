@@ -29,6 +29,7 @@ ___
 - [Improve readability of CloudFoundryVcapEnvironmentPostProcessor by removing constants](https://github.com/spring-projects/spring-boot/pull/45855)
 - [Fix typo in variable name](https://github.com/spring-projects/spring-boot/pull/45894)
 - [Extract constant and unify messages in Log4JCoreLoggerContextCondition](https://github.com/spring-projects/spring-boot/pull/45967)
+- [Configuration Metadata for Actuator endpoints do not take Nullness into account](https://github.com/spring-projects/spring-boot/pull/46854)
 
 ### <img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
