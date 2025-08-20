@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=243&section=header&text=Welcome!&animation=twinkling&fontSize=90&desc=WonYong's%20Github%20Profile&descAlign=60&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=243&section=header&text=Welcome!&animation=twinkling&fontSize=90&desc=I'm%20wonyong&descAlign=60&descAlignY=65)
 
 <!--
 ## 📝 RESUME
