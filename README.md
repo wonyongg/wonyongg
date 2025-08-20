@@ -23,7 +23,7 @@ ___
 <br></br>
 
 -->
-## 🚀 Open Source Contributions
+## 🚀 Contributions
 
 ### <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
