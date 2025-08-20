@@ -41,6 +41,8 @@ ___
 
 - [Kubernetes SIGS Docs Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed)
 
+
+<!--
 <br></br>
 
 ## 📌 Github Stats & Baekjoon Tier
