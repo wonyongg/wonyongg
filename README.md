@@ -24,6 +24,11 @@ ___
 
 -->
 ## 🚀 Open Source Contributions
+
+### <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+- [Kubernetes SIGS Docs Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed)
+
 ### <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 - [Improve readability of CloudFoundryVcapEnvironmentPostProcessor by removing constants](https://github.com/spring-projects/spring-boot/pull/45855)
@@ -36,10 +41,6 @@ ___
 
 - [Document intention of toString() in HandlerMethod](https://github.com/spring-projects/spring-framework/pull/35055)
 
-
-### <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-
-- [Kubernetes SIGS Docs Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed)
 
 
 <!--
