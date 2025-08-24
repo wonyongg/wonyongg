@@ -27,7 +27,7 @@ ___
 
 ### <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
-- [Kubernetes SIGS Docs Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed)
+- [Kubernetes SIG-Docs Korean l10n Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed)
 
 ### <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
