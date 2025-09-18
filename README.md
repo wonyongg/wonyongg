@@ -25,22 +25,17 @@ ___
 -->
 ## 🚀 Contributions
 
-### <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+### <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 - [Kubernetes SIG-Docs Korean l10n Contribution](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed+label%3Alanguage%2Fko)
 
-### <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+### <img src="https://img.shields.io/badge/Spring Project-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-- [Improve readability of CloudFoundryVcapEnvironmentPostProcessor by removing constants](https://github.com/spring-projects/spring-boot/pull/45855)
-- [Fix typo in variable name](https://github.com/spring-projects/spring-boot/pull/45894)
-- [Extract constant and unify messages in Log4JCoreLoggerContextCondition](https://github.com/spring-projects/spring-boot/pull/45967)
-- [Configuration Metadata for Actuator endpoints does not take Nullness into account](https://github.com/spring-projects/spring-boot/pull/46854)
+- [Spring Boot](https://github.com/spring-projects/spring-boot/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed+-label%3A%22status%3A+declined%22)
+- [Spring Framework](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+is%3Aclosed+author%3Awonyongg+-label%3A%22status%3A+declined%22)
 
-
-### <img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-- [Document intention of toString() in HandlerMethod](https://github.com/spring-projects/spring-framework/pull/35055)
-
+### <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+- [Apache Pulsar](https://github.com/apache/pulsar/pulls?q=is%3Apr+is%3Aclosed+author%3Awonyongg)
 
 
 <!--
