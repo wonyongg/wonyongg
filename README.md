@@ -26,7 +26,7 @@ ___
 ## 🚀 Contributions
 
 ### <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-- Kubernetes Organization [Member](https://github.com/orgs/kubernetes/people?query=wonyongg) 
+- Kubernetes organization [Member](https://github.com/orgs/kubernetes/people?query=wonyongg) 
   - [Kubernetes SIG-Docs Korean l10n](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed+label%3Alanguage%2Fko)
   - [Kubernetes SIG-Docs Japanese l10n](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Awonyongg+is%3Aclosed+label%3Alanguage%2Fja)
 
